@@ -11,8 +11,6 @@ Este repositorio contiene el código desarrollado durante el curso de automatiza
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Ejecución de Pruebas](#ejecución-de-pruebas)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
 
 ## Páginas
 
