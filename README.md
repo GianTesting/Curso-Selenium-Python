@@ -41,17 +41,16 @@ Este repositorio contiene el código desarrollado durante el curso de automatiza
 
 1. Clona este repositorio en tu máquina local:
 
-```bash
-git clone <(https://github.com/GianTesting/Curso-Selenium-Python/)>
+
+git clone <https://github.com/GianTesting/Curso-Selenium-Python/>
 
 
 2. Instala las dependencias necesarias:
 
-```bash
 pip install -r requirements.txt
 
 
-## Ejecución de Pruebas
+## Instalación
 
 Puedes ejecutar las pruebas utilizando Pytest. Asegúrate de tener configurado el navegador que deseas utilizar en el archivo conftest.py. Por defecto, se utilizará Chrome.
 
